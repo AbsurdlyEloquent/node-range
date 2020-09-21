@@ -1,0 +1,11 @@
+{
+  "name": "range",
+  "version": "1.0.0",
+  "description": "python range method for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
