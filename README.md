@@ -26,7 +26,6 @@ for (let i of range(5)) {
 // > 2
 // > 3
 // > 4
-// > 5
 ```
 
 Use independently:
